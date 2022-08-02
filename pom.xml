@@ -12,7 +12,7 @@
 	<properties>
 		<jdk.version>17</jdk.version>
 		<jodatime.version>2.5</jodatime.version>
-		<junit.version>4.13</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<log4j.version>2.18.0</log4j.version>
 	</properties>
 
